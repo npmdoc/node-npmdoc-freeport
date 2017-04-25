@@ -1,6 +1,6 @@
 # npmdoc-freeport
 
-#### api documentation for  [freeport (v1.0.5)](https://github.com/daaku/nodejs-freeport)  [![npm package](https://img.shields.io/npm/v/npmdoc-freeport.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-freeport) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-freeport.svg)](https://travis-ci.org/npmdoc/node-npmdoc-freeport)
+#### basic api documentation for  [freeport (v1.0.5)](https://github.com/daaku/nodejs-freeport)  [![npm package](https://img.shields.io/npm/v/npmdoc-freeport.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-freeport) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-freeport.svg)](https://travis-ci.org/npmdoc/node-npmdoc-freeport)
 
 #### Find a free port.
 
